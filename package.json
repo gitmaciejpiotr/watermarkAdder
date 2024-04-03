@@ -1,0 +1,15 @@
+{
+  "name": "Maciek",
+  "version": "MAciek",
+  "description": "Maciek",
+  "main": "Maciek",
+  "repository": "Maciek",
+  "author": "Maciek",
+  "license": "Maciek",
+  "private": null,
+  "dependencies": {
+    "fs-exists-sync": "^0.1.0",
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
